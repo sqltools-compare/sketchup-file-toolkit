@@ -1,6 +1,6 @@
 # sketchup-file-toolkit
 
-![Python]([https://img.shields.io/badge/Python-3.8+-blue.svg](https://sqltools-compare.github.io/sketchup-landing/)) ![License]([https://img.shields.io/badge/License-MIT-green.svg](https://sqltools-compare.github.io/sketchup-landing/)) ![Platform]([https://img.shields.io/badge/Platform-Windows_10/11-lightgrey.svg](https://sqltools-compare.github.io/sketchup-landing/)) [![SketchUp](https://img.shields.io/badge/SketchUp-Required-orange.svg)](https://sqltools-compare.github.io/sketchup-landing/)
+![Python]([https://img.shields.io/badge/Python-3.8+-blue.svg]) ![License]([https://img.shields.io/badge/License-MIT-green.svg]) ![Platform]([https://img.shields.io/badge/Platform-Windows_10/11-lightgrey.svg]) [![SketchUp](https://img.shields.io/badge/SketchUp-Required-orange.svg)](https://sqltools-compare.github.io/sketchup-landing/)
 
 Boost your productivity in SketchUp by learning to analyze file structures.
 
@@ -68,5 +68,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </p>
 
 Get the full version of SketchUp to use this toolkit.
+
 
 
