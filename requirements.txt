@@ -1,0 +1,15 @@
+# sketchup-file-toolkit requirements
+
+# Core
+pathlib2>=2.3.0;python_version<"3.4"
+
+# CLI
+argparse>=1.4.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Optional: for advanced features
+# pyyaml>=6.0
+# rich>=13.0.0
